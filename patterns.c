@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+//Simple number and asterics printer
+int main()
+{
+    printf("1*********\n12********\n123*******\n1234******\n12345*****");
+    return 0;
+}
